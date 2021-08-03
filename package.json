@@ -1,0 +1,22 @@
+{
+  "name": "ribenbot",
+  "version": "1.0.0",
+  "description": "My Chat Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsachde29/RibenBot.git"
+  },
+  "author": "Bharat Sachdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsachde29/RibenBot/issues"
+  },
+  "homepage": "https://github.com/bsachde29/RibenBot#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
